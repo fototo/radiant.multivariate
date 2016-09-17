@@ -2,10 +2,16 @@
 
 This is a resubmission. In this version I have:
 
-* Updated a link to https://www.tldrlegal.com/l/AGPL3 to fix a libcurl error. I prefer to keep this link in the README.md file because it provides a convenient summary of the terms of the AGPL3 license.
-* Added a link to  https://www.r-project.org/Licenses/AGPL-3 in the LICENSE file.
+* Fixed an invalid URL README.md (i.e., https://www.r-project.org.org to  https://www.r-project.org 
 
 ## Previous cran-comments
+
+## Resubmission
+
+This is a resubmission. In this version I have:
+
+* Updated a link to https://www.tldrlegal.com/l/AGPL3 to fix a libcurl error. I prefer to keep this link in the README.md file because it provides a convenient summary of the terms of the AGPL3 license.
+* Added a link to  https://www.r-project.org/Licenses/AGPL-3 in the LICENSE file.
 
 ## Test environments
 * local OS X install, R 3.3.1
